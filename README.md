@@ -1,4 +1,4 @@
-#Basic Git Commands
+##Basic Git Commands
 Here are some of the most commonly used Git commands along with their syntax:
 #Setup
 git config --global user.name “[firstname lastname]”
